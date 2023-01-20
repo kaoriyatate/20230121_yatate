@@ -1,0 +1,10 @@
+問題１
+①クエリビルダ
+②Eloquent
+③モデル
+④create
+⑤read
+⑥update
+⑦app.php
+⑧マイグレーション
+⑨ファクトリ
